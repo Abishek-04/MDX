@@ -1,0 +1,5 @@
+{
+  "name": "Zudoku MDX Converter",
+  "description": "An intelligent tool to convert plain text into perfectly formatted MDX for the Zudoku documentation framework. It automatically handles syntax, callouts, and code blocks, ensuring your content is ready to publish.",
+  "requestFramePermissions": []
+}
