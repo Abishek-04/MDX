@@ -57,7 +57,7 @@ Be careful when modifying production data.
 **Your Task:**
 Convert the following plain text into Zudoku-flavored MDX. Do not add any extra text, commentary, or explanation. Only output the raw, converted MDX.
 
-**Plain Text to Convert:**
+**Plain Tedcxt to Convert:**
 ---
 ${plainText}
 ---
